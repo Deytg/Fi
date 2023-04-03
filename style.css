@@ -1,0 +1,28 @@
+body {
+	font-family: sans-serif;
+	background-attachment: fixed;
+	font-size: 24px;
+    color: black;
+}
+
+a {
+ 	border: 1px solid royalblue;
+ 	background-color: royalblue;
+ 	color: white;
+    text-decoration: none;
+    padding: 20px;
+ }
+ img {
+ 	width: 100px;
+ 	height: 83px;
+ }
+ h1 {
+    text-align: center;
+    font-size: 30px;
+ }
+
+ div {
+ 	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+ }
